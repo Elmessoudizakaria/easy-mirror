@@ -1,5 +1,2 @@
-# easy-mirror
-
-test github
-
-test from gitlab joe
+everything is new now 
+the closer you look the less you see
