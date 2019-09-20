@@ -5,4 +5,4 @@
 
 
 ---
-*test new mirror after deleting the readme file from the origin repo*
+*create a new mirror*
